@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90650869639",
+    "project_id": "fblaapp-1384e",
+    "storage_bucket": "fblaapp-1384e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90650869639:android:8ab128097ab0f0be17dd22",
+        "android_client_info": {
+          "package_name": "com.app.fbla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC518utUQWk5f_5cKl00Al3QFPbNkW5vqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
